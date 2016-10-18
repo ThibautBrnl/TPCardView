@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TPCardView</string>
+    <string name="coliseum">Colisée</string>
+    <string name="taj_mahal">Taj Mahal</string>
+    <string name="eiffel_tower">Tour Eiffel</string>
+    <string name="big_ben">Big Ben</string>
+
+    <string name="action">Action</string>
+    <string name="action_choice">Quelle action voulez-vous effectuer ?</string>
+    <string name="show_picture">Afficher la photo</string>
+    <string name="search_on_the_internet">Rechercher \"%s\" sur internet</string>
+    <string name="cancel">Annuler</string>
+</resources>

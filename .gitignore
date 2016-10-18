@@ -1,0 +1,8 @@
+TPCardView/*.iml
+TPCardView/.gradle
+TPCardView/local.properties
+TPCardView/.idea/workspace.xml
+TPCardView/.idea/libraries
+.DS_Store
+TPCardView/build
+TPCardView/captures
