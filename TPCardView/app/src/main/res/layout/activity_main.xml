@@ -9,9 +9,26 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="fr.univ_lille1.brunel.tpcardview.MainActivity">
 
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/cards_list"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/simplelistview_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/simple_recyclerview"/>
+
+        <Button
+            android:id="@+id/cardlistview_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cardview_recyclerview"
+            android:layout_marginTop="8dp"/>
+
+    </LinearLayout>
 
 </RelativeLayout>
